@@ -6,6 +6,7 @@ In today's highly competitive banking sector, retaining customers is essential f
 Customer churn refers to the percentage of customers a business loses over a specific period. For example, if a bank starts with 100 customers and loses 10 during the month, the churn rate for that period is 10%.
 
 **Insights:**
+
 **1)	Overall Statistics:**
     a.	Total Customers: 10,000
     b.	Churned Customers: 2,037
