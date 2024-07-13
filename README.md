@@ -8,13 +8,14 @@ Customer churn refers to the percentage of customers a business loses over a spe
 **Insights:**
 
 **1)	Overall Statistics:**
-    a.	Total Customers: 10,000
-    b.	Churned Customers: 2,037
-    c.	Overall Churn Rate: 20.37%
+    a.	Total Customers: 10,000.
+    b.	Churned Customers: 2,037.
+    c.	Overall Churn Rate: 20.37%.
+
 **2)	Geographical Insights:**
-    a.	Germany: Highest churn rate at 32.4%
-    b.	Spain: Churn rate of 16.7%
-    c.	France: Churn rate of 16.2%
+    a.	Germany: Highest churn rate at 32.4%.
+    b.	Spain: Churn rate of 16.7%.
+    c.	France: Churn rate of 16.2%.
 **3)	Demographic Insights:**
     a.	Gender: Female customers have a higher churn rate compared to male customers.
     b.	Customer Status: Churn is more prevalent among customers with an active status and those who own credit cards.
